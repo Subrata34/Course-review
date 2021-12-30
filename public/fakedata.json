@@ -1,0 +1,26 @@
+[
+    {
+      "name":"English learning",
+      "duration":"2 Month",
+      "price":9000,
+      "img":"https://img.freepik.com/free-photo/english-lettering-yellow-background_23-2148293443.jpg?size=626&ext=jpg"
+    },
+    {
+      "name":"Web Design",
+      "duration":"5 Month",
+      "price":5500,
+      "img":"https://www.webzacademy.com/wp-content/uploads/2019/06/web-designing-banner-1200x600.jpg"
+    },
+    {
+      "name":"python programming ",
+      "duration":"3 Month",
+      "price":3500,
+      "img":"https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg"
+    },
+    {
+      "name":"go programming ",
+      "duration":"4 Month",
+      "price":4500,
+      "img":"https://www.ittrainingnepal.com/public/courses/190422100021Go-Programming-IT-Training-Nepal.jpg"
+    }
+  ]

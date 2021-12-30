@@ -1,0 +1,19 @@
+.li-decoration{
+    color :rgb(148, 120, 120);
+    text-decoration: none;
+}
+li{
+    
+    list-style: none;
+}
+.text-font{
+    color:white;
+}
+.footer-text{
+    margin-top: 60px;
+    
+}
+.footer-margin{
+    margin-right: 5px;
+
+}
